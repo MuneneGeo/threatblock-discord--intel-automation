@@ -1,5 +1,4 @@
 # 🛡️ ThreatBlock – Discord Cybersecurity Intelligence System
-
 An automated threat monitoring system built using n8n that collects cybersecurity news and sends structured alerts to Discord.
 
 ---
